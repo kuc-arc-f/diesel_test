@@ -29,5 +29,7 @@ sudo apt-get install libmysqlclient-dev
 ***
 ### more
 
+https://note.com/knaka0209/n/n6f87c21cb875
+
 ***
 
